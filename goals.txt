@@ -1,0 +1,13 @@
+what i learned with Pathy ?
+
+VS Code → I write and edit the code
+Git → Tracks and saves the changes
+GitHub → I upload and share the project
+
+The commands I learned:
+git init → Used to initialize Git in a project for the first time
+git status → Shows the current status of the files, such as new or modified files
+git add → Stages all modified files so they can be included in the next commit
+git commit -m "..." → Saves the changes in Git with a message describing what was changed
+git log → Shows the history of previous commits and saved changes
+git push → Uploads the changes from the local computer to GitHub
